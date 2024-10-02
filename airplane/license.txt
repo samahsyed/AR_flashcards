@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sandwich (hand-painted)
+* source:	https://sketchfab.com/3d-models/sandwich-hand-painted-abbc30337667479b9897139d795c6018
+* author:	adamaysils (https://sketchfab.com/adamaysils)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sandwich (hand-painted)" (https://sketchfab.com/3d-models/sandwich-hand-painted-abbc30337667479b9897139d795c6018) by adamaysils (https://sketchfab.com/adamaysils) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
